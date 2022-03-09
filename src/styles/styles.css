@@ -7,14 +7,14 @@
 }
 
 body{
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 #container{
   display: flex;
   justify-content: space-between;
   width: 100vw;
-  height: 110vh;
+  height: 100vh;
   font-family: 'SF Pro Icons', sans-serif;
 }
 
