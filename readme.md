@@ -8,5 +8,5 @@ Actually, I got this project/design idea in this [video](https://www.youtube.com
 
 A fully responsive webpage, all built in HTML/CSS/JS :fire:
 
-You can visit the webpage by clicking [here](https//:anewcellphone.netlify.app) 
+You can visit the webpage by clicking [here](https://anewcellphone.netlify.app) 
 
